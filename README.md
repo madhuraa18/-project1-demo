@@ -1,5 +1,5 @@
 # -project1-demo
-this is my demo repo.
+this is my demo Git repository.
 <br>
 Author - Madhura mungekar.
 
